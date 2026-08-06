@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/N8n-logo-new.svg" alt="n8n Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n Logo" width="300" />
 </p>
 
 <div align="center">
