@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielDev07&show_icons=true&theme=dark)
+![pino's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielDev07&show_icons=true&theme=dark)
 
 </div>
 
