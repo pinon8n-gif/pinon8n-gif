@@ -38,7 +38,20 @@
   <img src="https://img.shields.io/badge/Google_Sheets-API-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-Data-000000?style=flat-square&logo=json&logoColor=white" />
-</div>
+</div>---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pinon8n-gif&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Andrés" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinon8n-gif&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinon8n-gif&theme=dark&hide_border=true" alt="Racha de contribuciones" width="94%" />
+</p>
+
 </div>
 
 ---
