@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/N8n-logo-new.svg" alt="n8n Logo" width="220" />
+</p>
+
 <div align="center">
 
 # 👋 ¡Hola, soy Pino!
