@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi there, I'm pino 👋
 
-<!--
-**pinon8n-gif/pinon8n-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 n8n & Automation Developer
+I build intelligent workflows, custom API integrations, and AI-powered data pipelines to optimize business processes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Automation & Integration:** n8n, Webhooks, REST APIs
+- **AI & Data:** LangChain, OpenRouter / OpenAI, Google Sheets API
+- **Scripting:** JavaScript, JSON
+- **Channels:** Telegram Bot API, Slack
+
+---
+
+### 📌 What I'm currently working on
+- Designing multi-step workflow systems combining APIs and AI models.
+- Building custom n8n templates for content curation & sports analytics.
+
+📫 **Reach out to me:** [LinkedIn / Email / Contacto]
