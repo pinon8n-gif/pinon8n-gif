@@ -35,16 +35,6 @@
   <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-Data-000000?style=flat-square&logo=json&logoColor=white" />
 </div>
-
----
-
-### 📈 Mis Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EzequielDev07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pino's Stats" height="195"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielDev07&theme=tokyonight&hide_border=true&background=0D1117" alt="Pino's Streak" height="195"/>
-
 </div>
 
 ---
