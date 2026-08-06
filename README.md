@@ -35,7 +35,8 @@
 
 <div align="center">
 
-![pino's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielDev07&show_icons=true&theme=dark)
+![pino's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinon8n-gif
+Dev07&show_icons=true&theme=dark)
 
 </div>
 
