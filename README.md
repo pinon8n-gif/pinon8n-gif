@@ -48,10 +48,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pinon8n-gif&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="45%" />
 </p>
 
-<p align="center">
-  <img src=https://github-readme-streak-stats.herokuapp.com?user=pinon8n-gif&theme=dark alt="GitHub Streak" />
-</p>
-
 </div>
 
 ---
