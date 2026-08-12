@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinon8n-gif&theme=dark&hide_border=true" alt="Racha de contribuciones" width="94%" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=pinon8n-gif&theme=dark)](https://git.io/streak-stats)
 </p>
 
 </div>
