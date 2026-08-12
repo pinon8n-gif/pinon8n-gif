@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pinon8n-gif&theme=dark)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=pinon8n-gif&theme=dark" alt="GitHub Streak" />
 </p>
 
 </div>
