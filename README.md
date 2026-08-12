@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pinon8n-gif&theme=dark" alt="GitHub Streak" />
+  <img src=https://github-readme-streak-stats.herokuapp.com?user=pinon8n-gif&theme=dark alt="GitHub Streak" />
 </p>
 
 </div>
